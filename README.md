@@ -4,8 +4,13 @@ In this case, we train our model with several medical informations such as the b
 #### Diabetes Prediction App Link : [Click Here To Visit Website](https://sugar-prediction-app.herokuapp.com)<br>
 
 #### Sample Video :
-![Video Link](https://github.com/CatalystsReachOut/Diabetes-Prediction-Using-SVM/blob/main/video.mp4)
-
+<h2 align="center">
+    Hey, prakash here.
+    <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+</h2>
 ## Domain Understanding
 <p>In this case, we train our model with several medical informations such as the blood glucose level, insulin level of patients along with whether the person has diabetes or not so this act as labels whether that person is diabetic or non-diabetic so this will be label for this case. 
 So once, we feed this data to our support vector machine model. What happens is our model tries to plot the data in a graph.</p><br> 
