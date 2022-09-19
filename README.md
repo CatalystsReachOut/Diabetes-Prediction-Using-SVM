@@ -5,11 +5,10 @@ In this case, we train our model with several medical informations such as the b
 
 #### Sample Video :
 <h2 align="center">
-    Hey, prakash here.
-    <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
+    <img src="https://github.com/CatalystsReachOut/Diabetes-Prediction-Using-SVM/blob/main/diabetess.gif" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" />
+         height=350"
+         width="550" />
 </h2>
 ## Domain Understanding
 <p>In this case, we train our model with several medical informations such as the blood glucose level, insulin level of patients along with whether the person has diabetes or not so this act as labels whether that person is diabetic or non-diabetic so this will be label for this case. 
